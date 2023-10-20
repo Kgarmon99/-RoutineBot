@@ -57,7 +57,7 @@ else:
     print("\nCongratulations, you've reached your ultimate financial goal!")
 
 # Gamification: Income and Expenses
-daily_income = float(input("\nHow much money did you make today? $"🤑))
+daily_income = float(input("\nHow much money did you make today? $🤑"))
 daily_expenses = float(input("How much did you spend today? $👀"))
 cash_on_hand += daily_income - daily_expenses
 
