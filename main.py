@@ -10,9 +10,9 @@ def beautiful_progress_bar(value, goal, length=30):
 
 # Define your financial milestones (in dollars)
 milestones = [1e2, 1e3, 1e4, 1e5, 1e6, 1e7, 1e8, 1e9, 1e10, 1e11, 1e12]  # $100 to 1 trillion dollars
-
-print("Welcome to MoneyBot's Financial Adventure! 🚀")
-print("Let's embark on a journey of financial success. 💼💰")
+Name = input("Good morning, I'm MoneyBot!! your finace co-pilot. What is your name? ")
+print(f"Welcome {Name}! to the MoneyVerse! 🚀")
+print("Let's begin your journey of riches & success. 💼💰")
 
 # How will you make more money today?
 make_more_money = input("\nYour mission: How will you INCREASE your income today? 🤑 ")
